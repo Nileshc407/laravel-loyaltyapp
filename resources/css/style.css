@@ -1,0 +1,7 @@
+/* public/css/styles.css */
+body {
+    background-image: url('/images/CustomerLogin.jpg');
+    background-size: cover; /* Optional: Ensures the image covers the entire background */
+    background-position: center; /* Optional: Centers the image */
+    background-repeat: no-repeat; /* Optional: Prevents repeating the image */
+}
